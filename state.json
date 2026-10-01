@@ -9,5 +9,21 @@
     "https://www.chromehearts.com/socks/sport/176354XXXXXXXXX.html": {
       "out_of_stock": false
     }
+  },
+  "nav_categories": [
+    "https://www.chromehearts.com/socks"
+  ],
+  "products": {
+    "https://www.chromehearts.com/socks": {
+      "https://www.chromehearts.com/socks/ch-logo-socks/176354XXXXXX349.html": {
+        "out_of_stock": true
+      },
+      "https://www.chromehearts.com/socks/foti-socks/180459XXXXXX389.html": {
+        "out_of_stock": false
+      },
+      "https://www.chromehearts.com/socks/sport/176354XXXXXXXXX.html": {
+        "out_of_stock": false
+      }
+    }
   }
 }
